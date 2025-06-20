@@ -3,7 +3,7 @@
 - 🔭 Trabalhando com ROS1 E ROS2 
 - 🌱 Estudando Engenharia de automação industrial
 - 💬 Gmail: kauasilvaoliveira998@gmail.com
-- 
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KauaOliveira11&show_icons=true&theme=dracula" alt="Status do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaOliveira11&langs_count=10&theme=dracula" alt="Linguagens mais usadas" />
