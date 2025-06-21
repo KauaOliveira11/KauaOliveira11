@@ -1,8 +1,11 @@
-## Olá
+## Olá Meu nome é Kauã Silva Oliveira
+Técnico em automação industrial - IFSUL Câmpus Camaquã
+Cursando Engenharia de Automação - FURG
 
 - 🔭 Trabalhando com ROS1 E ROS2 
 - 🌱 Estudando Engenharia de automação industrial
 - 💬 Gmail: kauasilvaoliveira998@gmail.com
+- 🤖
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KauaOliveira11&show_icons=true&theme=dracula" alt="Status do GitHub" />
